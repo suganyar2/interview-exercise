@@ -51,6 +51,7 @@
     <Compile Include="IntegrationTests\SampleIntegrationTest.cs" />
     <Compile Include="TestFixtureBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTests\CountryCodeRespositoryTests.cs" />
     <Compile Include="UnitTests\SampleTest.cs" />
   </ItemGroup>
   <ItemGroup>
